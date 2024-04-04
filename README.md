@@ -1,3 +1,3 @@
 # Runnerz-SpringBoot
 
-A Spring Boot project implementing basic stuff.
+A Spring Boot backend implementing basic stuff.
